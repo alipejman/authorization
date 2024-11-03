@@ -5,5 +5,5 @@ async function getProfile(req, res, next) {
 }
 
 module.exports = {
-  getProfile
+  getProfile,
 };
