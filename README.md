@@ -30,5 +30,4 @@ This is a simple authentication mini-project built with Node.js and Express. It 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/authentication-mini-project.git
-   cd authentication-mini-project
+   git clone https://github.com/alipejman/authorization.git
